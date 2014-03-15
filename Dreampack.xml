@@ -4,7 +4,7 @@
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
-    <memory>2560</memory>
+    <memory>2048</memory>
     <permgen>256</permgen>
   </pack>
   <libraries>
