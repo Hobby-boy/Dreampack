@@ -1499,10 +1499,10 @@
         {
             "name": "No Voidfog No Dimming",
             "version": "ModloaderForge1.6.4",
-            "url": "http://www.mediafire.com/download/4djf313xb9izdtm",
+            "url": "packs/Dreampack/files/noVoidFogNoDimmingModloaderForge1.6.4.zip",
             "file": "noVoidFogNoDimmingModloaderForge1.6.4.zip",
             "md5": "f09f111b892ab39e483f18f5244e97f1",
-            "download": "browser",
+            "download": "server",
             "website": "http://www.planetminecraft.com/mod/no-voidfog-no-dimming/",
             "authors": [
                 "MamiyaOtaru"
