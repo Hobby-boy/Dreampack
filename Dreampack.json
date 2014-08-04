@@ -1573,6 +1573,21 @@
             "type": "mods",
             "description": "Adds computers than run lua"
         },
+		{
+			"name": "OpenEye",
+			"version": "0.6",
+			"url": "packs/Dreampack/files/OpenEye-0.6-1.6.4.jar",
+			"file": "OpenEye-0.6-1.6.4.jar",
+			"md5": "0b7348c65071d426eae8d383702fb0fa",
+			"download": "server",
+			"website": "http://openeye.openmods.info/",
+			"donation": "http://www.patreon.com/openmods",
+			"authors": [
+				"Mikee,NeverCast,boq,Lyqyd"
+			],
+			"type": "mods",
+			"description": "Our primary aim is to collect and share vital information to allow us to provide a set of tools to the community to make the experience easier, drama-free and more secure for both users and modders."
+		},
         {
             "name": "OpenMods Lib",
             "version": "0.4b",
