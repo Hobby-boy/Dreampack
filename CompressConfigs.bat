@@ -1,4 +1,7 @@
 @echo off
+
+SET SevenZip=%CD%\tools\7za.exe
+
 echo Compressing Config Files
-"C:\Program Files\7-Zip\7z" a -tzip config.zip config mods
+"%SevenZip%" a -tzip config.zip config mods
 pause
